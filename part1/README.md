@@ -20,7 +20,7 @@
   - Naver OpenAPI 사용
   - urllib.request.urlopen 이미지다운로드 사용 *
 
-<img src="https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/naver_movie.png" width="750" />
+<img src="https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/naver_movie.PNG" width="750" />
 
 ## DB연동 GUI 개발 학습
 
