@@ -29,9 +29,9 @@
   - pymysql 모듈 사용
   - PyQ5 / QtDesigner
 
-![주소록앱 저장](https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/address_save.png)
+![주소록앱 저장](https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/address_save.PNG)
 
-![주소록앱 삭제](https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/address_delete.png)
+![주소록앱 삭제](https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/address_delete.PNG)
 
 
 ## 미니프로젝트 실습
