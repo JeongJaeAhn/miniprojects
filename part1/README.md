@@ -38,12 +38,14 @@
   - qrcode 모듈
   - PyQt
 
-  
+![QR코드앱](https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/QRcodeApp.png)
 
 - 컴퓨터 정보출력 앱
   - psutil 모듈
   - socket 모듈
   - requests 모듈
   - PyQt
+
+![내텀퓨터](https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/ComInfo.png)
 
 ## 미니프로젝트 실습
