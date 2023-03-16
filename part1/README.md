@@ -46,7 +46,7 @@
   - requests 모듈
   - PyQt
 
-![내텀퓨터](https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/ComInfo.png)
+![내컴퓨터](https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/ComInfo.png)
 
 - TTS(Text To Speech)
   - gtts 모듈
@@ -59,6 +59,10 @@
 - 쓰레드 사용법
   - GUI와 처리시간이 긴 로직을 실행하면 반드시 쓰레드 사용
 
+![쓰레드](https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/thread.png)
+
 - 이메일 전송, 대량메일 전송
-  
+
+- PyGame
+
 ## 미니프로젝트 실습
