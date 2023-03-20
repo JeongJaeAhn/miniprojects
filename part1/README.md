@@ -66,9 +66,9 @@
 - 게임만들기 - DinoRun
   - PyGame
 
-<img src="https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/naver_pygame1.PNG" width="750" />
+<img src="https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/pygame1.png" width="750" />
 
-<img src="https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/naver_pygame2.PNG" width="750" />
+<img src="https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/pygame2.png" width="750" />
 
 게임화면
 
