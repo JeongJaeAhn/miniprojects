@@ -78,9 +78,9 @@
   - PyQt
     - QWebEnginView 추가
 
-  <img src="" width="750" />
+  <img src="https://raw.githubusercontent.com/JeongJaeAhn/miniprojects/main/images/universityfolium.png" width="750" />
 
 ## 미니프로젝트 실습
 - 테스트앱 만들기
 
-![쓰레드](https://github.com/PKNU-IOT3)
+(https://github.com/PKNU-IOT3)
