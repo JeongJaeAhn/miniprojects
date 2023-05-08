@@ -1,14 +1,10 @@
-﻿using Bogus.DataSets;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BogusTestApp.Models
 {
     public class Customer // 고객 테이블 매핑
-    {
+    {   
         public Guid Id { get; set; } // 고객 아이디
         public string Name { get; set; } // 고객명
         public string Address { get; set; } // 고객주소
