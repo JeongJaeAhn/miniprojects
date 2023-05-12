@@ -20,15 +20,15 @@
 온습도 더미데이터 시뮬레이터
 
 <img
-src="https://github.com/JeongJaeAhn/miniprojects/blob/main/images/fake.gif" width=480 />
+src="https://github.com/JeongJaeAhn/miniprojects/blob/main/images/fake.gif" width=580 />
 
 스마트홈 모니터링 앱
 
 <img
-src="" width=780 />
+src="https://github.com/JeongJaeAhn/miniprojects/blob/main/images/SHM.gif" width=580 />
 
 스마트홈 모니터링 시각화
 
 <img
-src="" width=780 />
+src="https://github.com/JeongJaeAhn/miniprojects/blob/main/images/SHM.png" width=580 />
 	
