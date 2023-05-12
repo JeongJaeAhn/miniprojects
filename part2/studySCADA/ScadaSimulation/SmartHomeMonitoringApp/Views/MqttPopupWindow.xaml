@@ -8,9 +8,8 @@
     xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
     xmlns:local="clr-namespace:SmartHomeMonitoringApp.Views"
     mc:Ignorable="d"
-    Title="MqttPopupWindow" Height="220" Width="300" MinHeight="220" MinWidth="300"
+    Title="MQTT Setting" Height="220" Width="300" MinHeight="220" MinWidth="300"
     ResizeMode="NoResize" WindowStyle="ToolWindow" Loaded="MetroWindow_Loaded">
-    
     <Grid Margin="10">
         <Grid.RowDefinitions>
             <RowDefinition Height="0.5*" />
@@ -23,19 +22,15 @@
 
         <TextBox Grid.Row="1" x:Name="TxtBrokerIp" Style="{StaticResource MahApps.Styles.TextBox}"
                  mah:TextBoxHelper.Watermark="브로커 아이피를 입력하세요"
-                 mah:TextBoxHelper.UseFloatingWatermark="True" FontSize="14" Margin="5" 
-                 Text="127.0.0.1"/>
+                 mah:TextBoxHelper.UseFloatingWatermark="True" FontSize="14" Margin="5" />
         <TextBox Grid.Row="2" x:Name="TxtTopic" Style="{StaticResource MahApps.Styles.TextBox}"
                  mah:TextBoxHelper.Watermark="MQTT 토픽을 입력하세요"
-                 mah:TextBoxHelper.UseFloatingWatermark="True" FontSize="14" Margin="5" 
-                 Text="SmartHome/IoTData/" />
+                 mah:TextBoxHelper.UseFloatingWatermark="True" FontSize="14" Margin="5" />
         <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right">
             <Button x:Name="BtnConnect" Content="MQTT 접속" IsDefault="True"
-                    Style="{StaticResource MahApps.Styles.Button.Dialogs.Accent}"
-                    Margin="0,0,5,0" Click="BtnConnect_Click"/>
+                    Style="{StaticResource MahApps.Styles.Button.Dialogs.Accent}" Margin="0,0,5,0" Click="BtnConnect_Click" />
             <Button x:Name="BtnCancel" Content="취소" IsCancel="True"
                     Style="{StaticResource MahApps.Styles.Button.Dialogs}" />
         </StackPanel>
-
     </Grid>
 </mah:MetroWindow>
