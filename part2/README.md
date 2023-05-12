@@ -20,7 +20,7 @@
 온습도 더미데이터 시뮬레이터
 
 <img
-src="" width=780 />
+src="https://github.com/JeongJaeAhn/miniprojects/blob/main/images/fake.gif" width=480 />
 
 스마트홈 모니터링 앱
 
